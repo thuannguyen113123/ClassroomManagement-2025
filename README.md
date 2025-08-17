@@ -10,7 +10,7 @@ This is a **full-stack** real-time classroom management tool built with:
 
 ## Project Structure
 
-![output](/Screenshots/stuctured.png)
+![output](/Screenshots/structured.png))
 
 ## Installation
 
