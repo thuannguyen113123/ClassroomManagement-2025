@@ -58,3 +58,15 @@ npm run dev
 ## Screenshots
 
 ![output](/Screenshots/Login.png))
+
+![output](/Screenshots/DashboardTeacher.png))
+
+![output](/Screenshots/DashboardStudent.png))
+
+![output](/Screenshots/CreateStudent.png))
+
+![output](/Screenshots/AssignLesson.png))
+
+![output](/Screenshots/Chat.png))
+
+![output](/Screenshots/MyProfile.png))
