@@ -10,44 +10,7 @@ This is a **full-stack** real-time classroom management tool built with:
 
 ## Project Structure
 
-CLASSROOMMANAGEMENT-2025
-├── client
-│ ├── node_modules
-│ ├── public
-│ ├── src
-│ │ ├── api
-│ │ ├── assets
-│ │ ├── components
-│ │ │ ├── auth
-│ │ │ ├── chat
-│ │ │ ├── dashboard
-│ │ │ ├── lessons
-│ │ │ ├── profile
-│ │ │ ├── routes
-│ │ │ ├── students
-│ │ │ └── ui
-│ │ ├── pages
-│ │ ├── redux
-│ │ │ ├── notification
-│ │ │ ├── ui
-│ │ │ └── user
-│ │ ├── utils
-│ │ ├── App.jsx
-│ │ ├── firebase.js
-│ │ ├── index.css
-│ │ ├── main.jsx
-│ │ └── các file cấu hình khác
-│ └── Screenshots
-├── server
-│ ├── configs
-│ ├── controllers
-│ ├── middlewares
-│ ├── models
-│ ├── node_modules
-│ ├── routes
-│ ├── index.js
-│ └── các file cấu hình khác
-├── .gitattributes
+![output](/Screenshots/structured.png))
 
 ## Installation
 
